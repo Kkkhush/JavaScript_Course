@@ -1,0 +1,13 @@
+const accountId =144553
+let accountEmail ="khushi@google.com" // variable
+var accountPassword= "12345"  // variable // hum var zyada use nhi krte
+accountCity = "Jaipur" 
+
+// accountId =2  // not allowed
+accountEmail="hchc.com"
+accountPassword="2121212121"
+accountCity= "Bengaluru"
+
+console.log(accountId);
+console.table([accountId,accountEmail,accountPassword,accountCity])
+
